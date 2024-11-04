@@ -1,4 +1,13 @@
 # ComfyUI-LivePortrait_v2
+
+
+
+https://github.com/user-attachments/assets/3bc8bb2a-7e2b-4c1f-9f09-55c38a7a86c7
+
+
+https://github.com/user-attachments/assets/01ba6af3-9080-4af7-8795-11b8561e78f8
+
+
 ## 🔥 Updates
 ComfyUI nodes for LivePortrait, We support animal image driven mode and regional control for Comfyui!!!
 We have developed animal expression-driven nodes for ComfyUI that have the same effect as the source code.
