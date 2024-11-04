@@ -6,7 +6,7 @@ We have developed animal expression-driven nodes for ComfyUI that have the same 
 This repo, named ComfyUI-LivePortrait_v2, thanks to paper LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control.
 We developed a custom_node for Liveportrait_v2 that enables flexible use on Comfyui to drive animal image-based emoji generation from videos.
 ## Getting Started
-### 1. Clone the code and prepare the environment 
+### Clone the code and prepare the environment 
 ```bash
 git clone https://github.com/VangengLab/ComfyUI-LivePortrait_v2.git
 cd ComfyUI-LivePortrait_v2
@@ -18,3 +18,8 @@ or you can refer to my environment on https://github.com/VangengLab/Comfyui_Live
 
 refer to https://github.com/VangengLab/Comfyui_Liveportrait_v3/edit/main/README.md
 this repo will tell you all details about pretrained weights
+## !!!Important reminder
+Since the node we developed is relatively simple and we hope that users can get started quickly, we did not open a video upload window. We need to put the expression video (of a person) that needs to be driven into
+ComfyUI-LivePortrait_v2/assets/examples/driving 
+and enter its name in the node. According to the example in the figure, it can be completed.
+![image](https://github.com/user-attachments/assets/0711de7e-2336-4eaf-b8d1-7a66a6fa093b)
